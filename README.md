@@ -11,4 +11,4 @@
 - Botao reset para limpar campos
 - Botao para deletar a lista inteira
 
-https://otthonleao.github.io/controle-de-compras/
+https://otthonleao.github.io/js-controle-de-compras/
